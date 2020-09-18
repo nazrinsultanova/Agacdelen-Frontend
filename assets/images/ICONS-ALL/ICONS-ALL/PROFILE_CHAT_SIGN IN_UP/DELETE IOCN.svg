@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trash-2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.702869234" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Chat-right-items" transform="translate(-403.000000, -516.000000)" stroke="#666666" stroke-width="1.77777778">
+            <g id="Group-69" transform="translate(388.000000, 505.000000)">
+                <g id="trash-2" transform="translate(16.000000, 12.000000)">
+                    <polyline id="Path" points="0 3.55555556 1.77777778 3.55555556 16 3.55555556"></polyline>
+                    <path d="M14.2222222,3.55555556 L14.2222222,16 C14.2222222,16.9818396 13.426284,17.7777778 12.4444444,17.7777778 L3.55555556,17.7777778 C2.573716,17.7777778 1.77777778,16.9818396 1.77777778,16 L1.77777778,3.55555556 M4.44444444,3.55555556 L4.44444444,1.77777778 C4.44444444,0.795938223 5.24038267,0 6.22222222,0 L9.77777778,0 C10.7596173,0 11.5555556,0.795938223 11.5555556,1.77777778 L11.5555556,3.55555556" id="Shape"></path>
+                    <line x1="6.22222222" y1="8" x2="6.22222222" y2="13.3333333" id="Path"></line>
+                    <line x1="9.77777778" y1="8" x2="9.77777778" y2="13.3333333" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

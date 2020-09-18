@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-up-circle copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="inner-page-article" transform="translate(-1192.000000, -3273.000000)" stroke-width="1.23076923">
+            <g id="Group-89" transform="translate(214.000000, 3235.000000)">
+                <g id="Group-42" transform="translate(0.000000, 33.000000)">
+                    <g id="Group-38" transform="translate(853.000000, 6.000000)">
+                        <g id="arrow-up-circle-copy" transform="translate(142.000000, 16.000000) rotate(-270.000000) translate(-142.000000, -16.000000) translate(126.000000, 0.000000)">
+                            <circle id="Oval" stroke-opacity="0.83555507" stroke="#1B1B1B" fill-opacity="0.841673951" fill="#1B1B1B" cx="16" cy="16" r="16"></circle>
+                            <polyline id="Path" stroke="#FFFFFF" points="22.4 16 16 9.6 9.6 16"></polyline>
+                            <line x1="16" y1="22.4" x2="16" y2="9.6" id="Path" stroke="#FFFFFF"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

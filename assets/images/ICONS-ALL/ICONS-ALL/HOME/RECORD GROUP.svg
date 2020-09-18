@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 40</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-copy-2" transform="translate(-134.000000, -1089.000000)">
+            <g id="Group-86" transform="translate(108.000000, 948.000000)">
+                <g id="Group-85" transform="translate(2.000000, 116.000000)">
+                    <g id="Group-17-Copy-11" transform="translate(0.000000, 1.000000)">
+                        <g id="Group-40" transform="translate(24.375887, 24.375887)">
+                            <g id="Group-30-Copy-2" fill="#000000" opacity="0.499302455">
+                                <g id="Group-39">
+                                    <circle id="Oval-Copy-9" cx="30.9825509" cy="30.9825509" r="30.9825509"></circle>
+                                </g>
+                            </g>
+                            <circle id="Oval" fill="#000000" opacity="0.496512277" cx="30.9825509" cy="30.9825509" r="26.9413486"></circle>
+                            <g id="Group-22" transform="translate(21.553079, 16.164809)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.69413486">
+                                <path d="M9.42947203,0 C7.19757763,0 5.38826973,1.8093079 5.38826973,4.0412023 L5.38826973,14.8177418 C5.38826973,17.0496362 7.19757763,18.8589441 9.42947203,18.8589441 C11.6613664,18.8589441 13.4706743,17.0496362 13.4706743,14.8177418 L13.4706743,4.0412023 C13.4706743,1.8093079 11.6613664,0 9.42947203,0 Z" id="Path"></path>
+                                <path d="M18.8589441,12.1236069 L18.8589441,14.8177418 C18.8589441,20.0254953 14.6372256,24.2472136 9.42947203,24.2472136 C4.22171848,24.2472136 0,20.0254953 0,14.8177418 L0,12.1236069" id="Path"></path>
+                                <line x1="9.42947203" y1="24.2472138" x2="9.42947203" y2="29.6354835" id="Path"></line>
+                                <line x1="4.0412023" y1="29.6354835" x2="14.8177418" y2="29.6354835" id="Path"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

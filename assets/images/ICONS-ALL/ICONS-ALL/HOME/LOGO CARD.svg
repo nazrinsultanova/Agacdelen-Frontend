@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="46px" viewBox="0 0 26 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10 Copy 2</title>
+    <defs>
+        <polygon id="path-1" points="0 0.0974480897 24.0216034 0.0974480897 24.0216034 44.2493877 0 44.2493877"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-copy-2" transform="translate(-289.000000, -3332.000000)">
+            <g id="Group-69" transform="translate(-307.000000, 3060.000000)">
+                <g id="Group-66" transform="translate(0.000000, 160.000000)">
+                    <g id="Group-64" transform="translate(416.000000, 0.000000)">
+                        <g id="Group-21" transform="translate(81.000000, 112.000000)">
+                            <g id="Group-10-Copy-2" transform="translate(99.000000, 0.000000)">
+                                <g id="logo-(1)-copy" transform="translate(0.251757, 0.000000)">
+                                    <g id="Fill-18-Clipped" transform="translate(0.000000, 0.399935)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="path-1"></g>
+                                        <path d="M12.3610789,0.0649830792 L3.47055232,12.7386484 C0.401556208,17.112903 0.346915328,22.8700956 3.33212875,27.2991509 L11.6425513,39.6302005 L11.8283303,23.5049819 C11.0638133,23.3445895 10.4946375,22.6758427 10.5041996,21.8814553 C10.5142171,20.9743477 11.2741807,20.2472359 12.2017096,20.2574832 C13.1283279,20.2677305 13.8714439,21.0113271 13.8609711,21.9184346 C13.8518643,22.7128221 13.2672068,23.3690939 12.4995024,23.5125559 L12.3160001,39.4270369 L20.7602929,27.4916217 C23.8470472,23.1293965 23.9249105,17.3722039 20.9579107,12.9315647 L12.3610789,0.0649830792 Z" id="Fill-18" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

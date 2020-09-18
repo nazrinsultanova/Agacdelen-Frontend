@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="94px" viewBox="0 0 100 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>rewind left</title>
+    <defs>
+        <filter x="-5.0%" y="-38.9%" width="110.1%" height="177.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0419307255 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="inner-page-article" transform="translate(-497.000000, -1000.000000)" fill="#4A4A4A" stroke="#4A4A4A" stroke-width="1.18776592">
+            <g id="Group-18" transform="translate(214.000000, 982.000000)" filter="url(#filter-1)">
+                <g id="Group-86" transform="translate(34.000000, 35.000000)">
+                    <g id="Group-83" transform="translate(287.000000, 10.000000)">
+                        <g id="rewind-left" transform="translate(0.000000, 11.877659)">
+                            <polygon id="Path" points="10.6898933 16.6287229 0 8.31436144 10.6898933 0"></polygon>
+                            <polygon id="Path" points="23.7553184 16.6287229 13.0654251 8.31436144 23.7553184 0"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
